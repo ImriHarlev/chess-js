@@ -1,0 +1,48 @@
+.white-box {
+    color: white;
+}
+
+* {
+    justify-content: center;
+    align-items: center;
+}
+
+.frame {
+   
+    display: flex;
+
+}
+
+/*.line1 {
+    display: flex;
+    
+}
+
+.line2 {
+    display: flex;
+}
+.line3 {
+    display: flex;
+}
+.line4 {
+    display: flex;
+}
+.line5 {
+    display: flex;
+}
+.line6 {
+    display: flex;
+}
+.line7 {
+    display: flex;
+}
+.line8 {
+    display: flex;
+}*/
+
+.box {
+    width: 80px;
+    height: 80px;
+color: rgba(250, 235, 215, 0);
+outline: black solid 1px;
+}
