@@ -1,5 +1,14 @@
 .white-box {
-    color: white;
+    background-color: white;
+    height: 40px;
+    width: 40px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+.black-box {
+    background-color: black;
+    height: 40px;
+    width: 40px;
 }
 
 * {
@@ -8,9 +17,9 @@
 }
 
 .frame {
-   
     display: flex;
-
+    /* width: fit-content;
+    border: 1px solid; */
 }
 
 /*.line1 {
